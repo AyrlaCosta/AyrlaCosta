@@ -1,6 +1,8 @@
 ## Hello! 🙋🏻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrlaCosta&show_icons=true&theme=cobalt)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyrlaCosta&show_icons=true&theme=cobalt&include_all_comits=true&count_private=true"/>
+</div>
 
 🎓 I am a Computer Science student at the University of Brasília (UnB)
 
